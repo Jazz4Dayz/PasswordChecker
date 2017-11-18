@@ -1,0 +1,3 @@
+# PasswordChecker
+Password requirements:
+arv
