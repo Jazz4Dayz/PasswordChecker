@@ -6,7 +6,7 @@
  * at least 1 alpha/numeric char & at least 1 special char
  * 
  * @author
- last edited November 17, 2017
+ * last edited November 17, 2017
  */
 
 package createandverifypass;
