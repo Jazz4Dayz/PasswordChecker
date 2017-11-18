@@ -2,7 +2,7 @@
 Password requirements:
 + at least 1 alpha char
 + at least 1 numeric char
-+ at least 1 special car
++ at least 1 special char
 + at least 8 chars long
 - no spaces
 - can't start with "!" or "?"
