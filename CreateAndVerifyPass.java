@@ -4,6 +4,7 @@
  * program asks the user to enter a password and checks
  * if it meets standard password requirements:
  * at least 1 alpha/numeric char & at least 1 special char
+ * utilises modular design
  * 
  * @author
  * last edited November 17, 2017
